@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# spaCy / model caches / temp
+*.tmp
+
+# Optional: large data files
+# Uncomment if you do NOT want to upload the dataset
+# *.csv
+# data/
+
+# Colab
+/content/
+
+#data
+data/
